@@ -4,6 +4,7 @@
 const mongooseLodging = require("mongoose");
 
 const lodgingSchema = mongooseLodging.Schema({
+    id: { type: String, required: true },
     title: { type: String, required: true },
     cover: { type: String, required: true },
     pictures: { type: Array, required: true },
