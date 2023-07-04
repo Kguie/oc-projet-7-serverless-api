@@ -11,9 +11,6 @@
 - [Consommer l'API](#consommer-l-api)
 - [Structure du Projet](#structure-du-projet)
 - [Auteurs](#auteurs)
-- [Exigences fonctionnelles](#exigences-fonctionnelles)
-- [Outils et contraintes techniques](#outils-et-contraintes-techniques)
-
 
 ## Introduction 
 
